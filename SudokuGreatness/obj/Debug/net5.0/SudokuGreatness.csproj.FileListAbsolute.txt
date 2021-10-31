@@ -1,0 +1,16 @@
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\bin\Debug\net5.0\SudokuGreatness.exe
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\bin\Debug\net5.0\SudokuGreatness.deps.json
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\bin\Debug\net5.0\SudokuGreatness.runtimeconfig.json
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\bin\Debug\net5.0\SudokuGreatness.runtimeconfig.dev.json
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\bin\Debug\net5.0\SudokuGreatness.dll
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\bin\Debug\net5.0\ref\SudokuGreatness.dll
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\bin\Debug\net5.0\SudokuGreatness.pdb
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\obj\Debug\net5.0\SudokuGreatness.csproj.AssemblyReference.cache
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\obj\Debug\net5.0\SudokuGreatness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\obj\Debug\net5.0\SudokuGreatness.AssemblyInfoInputs.cache
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\obj\Debug\net5.0\SudokuGreatness.AssemblyInfo.cs
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\obj\Debug\net5.0\SudokuGreatness.csproj.CoreCompileInputs.cache
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\obj\Debug\net5.0\SudokuGreatness.dll
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\obj\Debug\net5.0\ref\SudokuGreatness.dll
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\obj\Debug\net5.0\SudokuGreatness.pdb
+C:\Users\siggi\OneDrive\Desktop\C#\SudokuGreatness\SudokuGreatness\obj\Debug\net5.0\SudokuGreatness.genruntimeconfig.cache
